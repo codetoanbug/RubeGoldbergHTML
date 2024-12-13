@@ -1,3 +1,4 @@
 # RubeGoldbergHTML
 show image demo:
-![Demo](demo)
+
+![Demo Image](demo.png)
